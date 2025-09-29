@@ -186,8 +186,8 @@ a_count_in_kb6 = kilobase_dict[5000]['A']  # A's in positions 5000-5999
 - `analysis_dict` (dict): Dictionary from `analyze_sequence_by_kilobase()`
 - `sequence_length` (int): Total sequence length in base pairs
 
-**Output Format**:
-```Sample Output
+**Output Format(Sample Output)**:
+```
 ======================================================================
 NUCLEOTIDE ANALYSIS BY KILOBASE
 Total sequence length: 182,896 bp
@@ -218,7 +218,7 @@ KB 2    (1000  ): 260      240      245      255      0        1000
 **Returns**:
 - `list`: List of lists, each containing [A, C, G, T] counts (excludes N)
 
-**Output Structure**:
+**Output Structure(Sample Structure)**:
 ```python
 [
     [245, 255, 250, 250],  # Kilobase 1
