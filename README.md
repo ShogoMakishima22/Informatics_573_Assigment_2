@@ -154,11 +154,6 @@ Expected vs Observed Results:
 - **Input**: Analysis dictionary and sequence length
 - **Output**: Formatted table printed to console
 
-#### `create_nucleotide_lists(analysis_dict)`
-- **Purpose**: Converts nested dictionary to list of lists
-- **Input**: Analysis dictionary
-- **Output**: List of lists `[[A, C, G, T], [A, C, G, T], ...]`
-
 #### `main()`
 - **Purpose**: Orchestrates all analysis functions
 - **Output**: Complete analysis report
