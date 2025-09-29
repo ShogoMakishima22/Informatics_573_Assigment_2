@@ -59,7 +59,7 @@ This Python program performs comprehensive analysis of DNA sequences from FASTA 
 ## Installation
 
 ### Step 1: Download the Script
-Save the Python script as `dna_analysis.py` in your working directory.
+Save the Python script as `data_analysis_assgn2.py` in your working directory.
 
 ### Step 2: Prepare Input File
 1. Obtain your FASTA file (e.g., `chr1_GL383518v1_alt.fa`)
