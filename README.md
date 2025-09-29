@@ -8,21 +8,6 @@ This Python program performs comprehensive analysis of DNA sequences from FASTA 
 - **Programming Language:** Python
 - **Date:** 09/28/2025
 
-## Table of Contents
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Program Structure](#program-structure)
-- [Data Structures](#data-structures)
-- [Analysis Components](#analysis-components)
-- [Output Description](#output-description)
-- [Troubleshooting](#troubleshooting)
-- [Customization](#customization)
-- [Limitations](#limitations)
-- [Future Enhancements](#future-enhancements)
-- [References](#references)
-
 ## Features
 
 ### Core Functionality
