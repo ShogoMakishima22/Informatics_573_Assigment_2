@@ -3,9 +3,9 @@
 ## Overview
 This Python program performs comprehensive analysis of DNA sequences from FASTA files. It analyzes nucleotide composition, creates reverse complements, and provides detailed kilobase-by-kilobase breakdowns of sequence characteristics.
 
-1. **Name**: Venkatesh Pramod Joshi.
-2. **Programming Language**: Python.
-3. **Date**: 09/28/2025.
+1. **Name**: Venkatesh Pramod Joshi
+2. **Programming Language**: Python
+3. **Date**: 09/28/2025
 
 
 ## Features
