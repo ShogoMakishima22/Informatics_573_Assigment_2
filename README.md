@@ -38,7 +38,7 @@ The program provides five main analysis components:
 
 ### Basic Usage
 ```bash
-python dna_analysis.py
+python data_analysis_assgn2.py
 ```
 
 ### Expected Output
@@ -142,7 +142,6 @@ Expected vs Observed Results:
 - **Purpose**: Generates reverse complement using Watson-Crick-Franklin base pairing
 - **Input**: DNA sequence (string)
 - **Output**: Reverse complement sequence (string)
-- **Base Pairing**: A↔T, G↔C, N↔N
 
 #### `analyze_sequence_by_kilobase(sequence)`
 - **Purpose**: Creates nested dictionary of nucleotide counts per kilobase
@@ -244,30 +243,4 @@ complement_map = {
 - Does not handle multi-line FASTA headers with embedded sequences
 - N bases are not included in nucleotide list sums
 
-## Future Enhancements
-- Support for multiple sequences in one file
-- Export results to CSV or JSON format
-- Graphical visualization of nucleotide distribution
-- GC content analysis by segment
-- Motif or pattern detection
 
-## References
-- FASTA Format: https://en.wikipedia.org/wiki/FASTA_format
-- Watson-Crick Base Pairing: https://en.wikipedia.org/wiki/Base_pair
-- DNA Sequence Analysis: https://en.wikipedia.org/wiki/Sequence_analysis
-
-## License
-[Specify your license here, e.g., MIT, GPL, etc.]
-
-## Contact
-For questions, issues, or contributions, please contact:
-- Email: [your.email@example.com]
-- GitHub: [your-github-username]
-
-## Acknowledgments
-[Add any acknowledgments for data sources, collaborators, or inspiration]
-
----
-
-Last Updated: [Current Date]  
-Version: 1.0
