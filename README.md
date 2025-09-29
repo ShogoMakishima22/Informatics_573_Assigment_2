@@ -187,7 +187,7 @@ a_count_in_kb6 = kilobase_dict[5000]['A']  # A's in positions 5000-5999
 - `sequence_length` (int): Total sequence length in base pairs
 
 **Output Format**:
-```
+```Sample Output
 ======================================================================
 NUCLEOTIDE ANALYSIS BY KILOBASE
 Total sequence length: 182,896 bp
