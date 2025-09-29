@@ -63,7 +63,7 @@ Save the Python script as `dna_analysis.py` in your working directory.
 
 ### Step 2: Prepare Input File
 1. Obtain your FASTA file (e.g., `chr1_GL383518v1_alt.fa`)
-2. Place it in the same directory as `dna_analysis.py`
+2. Place it in the same directory as `data_analysis_assgn2.py`
 3. Verify the file is properly formatted (header line with '>' followed by sequence lines)
 
 ### Step 3: Verify Python Installation
@@ -81,12 +81,12 @@ This program uses only Python's standard library, so no pip installations are ne
 
 ### Basic Execution
 ```bash
-python dna_analysis.py
+python data_analysis_assgn2.py
 ```
 
 Or on some systems:
 ```bash
-python3 dna_analysis.py
+python3 data_analysis_assgn2.py
 ```
 
 ### Command Line Options
